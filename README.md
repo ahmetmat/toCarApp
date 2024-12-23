@@ -3,7 +3,8 @@
 https://embeddables.testnet.andromedaprotocol.io/galileo-4/toCarMarketplace
 
 <div align="center">
-  <img src="docs/images/tocar_banner.png" alt="ToCar Banner" width="600" />
+  <img src="![Screenshot 2024-12-23 at 23 00 19](https://github.com/user-attachments/assets/988e1794-db14-4d04-a20f-835b11ba5bf5)
+" alt="ToCar Banner" width="600" />
 </div>
 
 This project aims to **mint** car NFTs (following the cw721 standard) and list them on a **marketplace** built on the **Andromeda Protocol**. By leveraging the “Embeddable” feature, you can display your marketplace either in an external website (through an iframe) or directly within the Andromeda UI.
@@ -43,7 +44,8 @@ This project aims to **mint** car NFTs (following the cw721 standard) and list t
 | Minting (cw721) | Marketplace Listings |
 |:---------------:|:--------------------:|
 | <img src="![Screenshot 2024-12-23 at 22 58 00](https://github.com/user-attachments/assets/ec9eeb6c-cd38-4adf-bbc7-9a40ba939c56)
-" alt="Mint Screen" width="300" /> | <img src="docs/images/marketplace_list.png" alt="Marketplace Listing" width="300" /> |
+" alt="Mint Screen" width="300" /> | <img src="![Screenshot 2024-12-23 at 23 06 13](https://github.com/user-attachments/assets/d0b1dde8-9a9e-44de-b503-38d2f4d64244)
+" alt="Marketplace Listing" width="300" /> |
 
 
 ---
