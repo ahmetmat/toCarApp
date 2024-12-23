@@ -1,6 +1,9 @@
 # ToCar: Car Tokenization Marketplace
 
 https://embeddables.testnet.andromedaprotocol.io/galileo-4/toCarMarketplace
+App Contract Address: andr1lnhk9fcc7heewy22yhxzrdda3gwwurtzpr57uffh6v5ueqz7up3qvd9fmp
+Tokens Contract Address: andr1hknuzf6n7h6rhxx5cfgq6k9a447r8mtyncek6tkm5tcx4hwhcr5qx7yps6
+Marketplace Address: andr1uxj039ax45l94w5hzwz9g2yx3900nu8943kqz4a4uahmx9p8erlsramllp
 
 This project aims to **mint** car NFTs (following the cw721 standard) and list them on a **marketplace** built on the **Andromeda Protocol**. By leveraging the “Embeddable” feature, you can display your marketplace either in an external website (through an iframe) or directly within the Andromeda UI.
 
